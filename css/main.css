@@ -1,0 +1,22 @@
+.center-text {
+	text-align: center;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+	clear: both;
+}
+
+.float-child-left {
+    width: 45%;
+    float: left;
+    padding: 20px;
+    border: 2px solid gray;
+}
+
+.float-child-right {
+    width: 45%;
+    float: right;
+    padding: 20px;
+}
